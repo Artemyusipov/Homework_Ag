@@ -1,0 +1,29 @@
+input
+3                                                                                                                          
+Denis Ivanov 3 4 5                                                                                                         
+Vasiliy Petrov 5 5 5                                                                                                       
+Alina Krasnova 1 5 5
+output
+Vasiliy Petrov                                                                                                             
+Denis Ivanov                                                                                                               
+Alina Krasnova   
+
+input
+1                                                                                                                          
+Semen Semenov 5 5 5
+output
+Semen Semenov
+
+input
+5                                                                                                                          
+Fedor Danilov 4 2 5                                                                                                        
+Stas Hromov 5 5 3                                                                                                          
+Evgeny Danov 3 3 2                                                                                                         
+Georgy Fedorov 5 1 5                                                                                                       
+Sergey Vasiliev 2 4 2 
+output
+Stas Hromov                                                                                                                
+Fedor Danilov                                                                                                              
+Georgy Fedorov                                                                                                             
+Evgeny Danov                                                                                                               
+Sergey Vasiliev 
